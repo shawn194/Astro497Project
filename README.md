@@ -1,6 +1,8 @@
 # Astro497Project
 Final Project for Astro 497 at PSU
 
+data: https://cdsarc.cds.unistra.fr/ftp/J/ApJS/225/9/
+
 Project Plan:
 
 Purpose:  
