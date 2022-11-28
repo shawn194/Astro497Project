@@ -1,4 +1,6 @@
 # Astro497Project
+!! Final dashboard is named dashboard.jl !!
+
 Final Project for Astro 497 at PSU
 
 data: https://cdsarc.cds.unistra.fr/ftp/J/ApJS/225/9/
