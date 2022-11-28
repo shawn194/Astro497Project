@@ -1,5 +1,5 @@
 # Astro497Project
-!! Final dashboard is named dashboard.jl !!
+**!! Final dashboard is named dashboard.jl !!**
 
 Final Project for Astro 497 at PSU
 
